@@ -33,7 +33,7 @@ My name is Artur Vieira. I am a full-stack developer living near Belo Horizonte,
 
 [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java logo" title="Java" height="25" />][learning_now_anchor] 
 &nbsp;
-[<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Nest logo" title="Nest" height="25" />][learning_now_anchor] 
+[<img src="https://img.shields.io/badge/nest.js-000000?style=for-the-badge&logo=nestdotjs&logoColor=white" alt="Nest logo" title="Nest" height="25" />][learning_now_anchor] 
 
 ## 👾  What I am interested in learning at some point
 
