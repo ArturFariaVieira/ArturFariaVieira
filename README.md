@@ -37,8 +37,6 @@ My name is Artur Vieira. I am a full-stack developer living near Belo Horizonte,
 
 ## 👾  What I am interested in learning at some point
 
-[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/CSharp-282C34?logo=cSharp&logoColor=FFFFFF" alt="C# logo" title="C#" height="25" />][learning_next_anchor]
 
 
